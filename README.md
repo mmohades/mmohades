@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visit](https://www.awardedfilms.com/api/visit)
+![visit](https://www.awardedfilms.com/api/visit?)
 
 <!--
 **mmohades/mmohades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
